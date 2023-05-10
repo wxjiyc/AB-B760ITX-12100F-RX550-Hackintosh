@@ -11,7 +11,7 @@ OpenCore EFI for AB-B760ITX-12100F-RX550-Hackintosh
 | RAM              | KingBank 16GB DDR4 3600MHz             |
 | Disk             | Western Digital PC SN730 512G NVMe SSD |
 | GPU              | AMD Radeon™ RX 550                     |
-| LAN              | Realtek RTL8125H                       |
+| LAN              | Realtek RTL8125B                       |
 | WiFi & Bluetooth | Intel® Wi-Fi 6 AX201                   |
 | Audio            | Realtek ALC897                         |
 | Monitor          | TUOSHUO 28" 4K@144Hz                   |
@@ -23,7 +23,7 @@ OpenCore EFI for AB-B760ITX-12100F-RX550-Hackintosh
 - [x] Intel® Core™ i3-12100F Turbo Boost
 - [x] AMD Radeon™ GPUs
 - [x] ALC897 Audio Output/Input (not fully tested)
-- [x] Realtek RTL8125H
+- [x] Realtek RTL8125B
 - [x] Intel Wi-Fi & Bluetooth
 - [x] All USB Ports
 - [x] Sleep
